@@ -1,0 +1,19 @@
+
+
+Runs only on terminal
+Script that checks possible word that can be composed out of a given scrambled word
+
+run as:
+python main.py [scrambled word]
+
+example:
+python main.py tae
+
+
+result:
+ate
+eat
+eta
+tae
+tea
+done...
